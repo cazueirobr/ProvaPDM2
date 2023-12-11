@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login form Renderiza o formulario 1`] = `
+<View
+  style={
+    {
+      "alignContent": "center",
+      "flexDirection": "column",
+      "justifyContent": "space-evenly",
+    }
+  }
+>
+  <TextInput
+    onChangeText={[Function]}
+    placeholder="Usuário"
+    style={
+      {
+        "borderColor": "gray",
+        "borderWidth": 1,
+        "marginTop": 60,
+        "padding": 10,
+        "width": 250,
+      }
+    }
+    value=""
+  />
+  <TextInput
+    onChangeText={[Function]}
+    placeholder="Senha"
+    secureTextEntry={true}
+    style={
+      {
+        "borderColor": "gray",
+        "borderWidth": 1,
+        "marginTop": 60,
+        "padding": 10,
+        "width": 250,
+      }
+    }
+    value=""
+  />
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "opacity": 1,
+      }
+    }
+    testID="submitButton"
+  >
+    <Image
+      source={1}
+      style={
+        {
+          "height": 50,
+          "marginTop": 60,
+          "width": 250,
+        }
+      }
+    />
+  </View>
+</View>
+`;
