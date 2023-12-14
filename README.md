@@ -1,5 +1,5 @@
 Olá, para fazer a instalação do Jest que é responsável pelos testes unitários, basta rodar o comando
-``` npx expo install jest-expo jest ```
+` npx expo install jest-expo jest `
 
 Esse comando será responsável por instalaar a biblioteca Jest.
 
@@ -23,7 +23,7 @@ Depois de instala-lo, não se esqueça de colocar no arquivo "package.json" os s
 
 
 Para executar os testes, utilize o comando
-``` npm run test ```
+` npm run test `
 
 
 
